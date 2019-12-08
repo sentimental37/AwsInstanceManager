@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29409.12
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AwsInstanceManager", "AwsInstanceManager.csproj", "{657ABE4D-AD5F-4AA5-A069-63671D15F93F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AwsInstanceManager", "AwsInstanceManager.csproj", "{0F559336-F472-4096-BCE8-A2299B9B1D3D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{657ABE4D-AD5F-4AA5-A069-63671D15F93F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{657ABE4D-AD5F-4AA5-A069-63671D15F93F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{657ABE4D-AD5F-4AA5-A069-63671D15F93F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{657ABE4D-AD5F-4AA5-A069-63671D15F93F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F559336-F472-4096-BCE8-A2299B9B1D3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F559336-F472-4096-BCE8-A2299B9B1D3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F559336-F472-4096-BCE8-A2299B9B1D3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F559336-F472-4096-BCE8-A2299B9B1D3D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {ADD2B437-3916-4A68-88D0-45650BA1F7BA}
+		SolutionGuid = {CF8F1E98-D895-466A-89A6-56C9266D5E7E}
 	EndGlobalSection
 EndGlobal
